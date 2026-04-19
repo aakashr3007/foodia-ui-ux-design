@@ -41,26 +41,32 @@ Along with the user interface, an admin dashboard is also designed to manage ord
 ### 🏠 Homepage
 ![Homepage](Homepage.jpg)
 
-### 📊 Dashboard
-![Dashboard](images/dashboard.jpg)
+### 📊 SecondPage
+![Dashboard](secondpage.jpg)
 
-### 💰 Wallet
-![Wallet](images/wallet.jpg)
+### 💰 Order List
+![Wallet](OrderList.jpg)
 
 ### 👤 Customer Details
-![Customer](images/customer.jpg)
+![Customer](CustomerDetail.jpg)
+
+### 📝 Reviews
+![Review](Reviews.jpg)
 
 ---
 
 ## 🎨 Figma Design
-👉 [Add your Figma link here]
+👉 https://www.figma.com/proto/kzxIAMR7elQNODnoZQP3bO/Website?node-id=0-1&t=tEuWBEQNuM4DTaN8-1
 
 ---
 
 ## 🔗 Case Study
-👉 [Add your Behance link here]
+👉 https://www.behance.net/gallery/247826679/Online-Vegetable-Delivery-Platform-UiUx-Design
+
+## 🧑‍🏫 Linkedin
+👉 https://www.linkedin.com/in/aakashr076/
 
 ---
 
 ## ✨ Author
-Aakash R (aakashr17)
+Aakash R Http://github.com/aakashr3007/foodia-ui-ux-design/edit/main/README.md
