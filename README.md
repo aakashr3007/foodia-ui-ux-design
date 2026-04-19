@@ -69,4 +69,4 @@ Along with the user interface, an admin dashboard is also designed to manage ord
 ---
 
 ## ✨ Author
-Aakash R Http://github.com/aakashr3007/foodia-ui-ux-design/edit/main/README.md
+Aakash R Http://github.com/aakashr3007/
