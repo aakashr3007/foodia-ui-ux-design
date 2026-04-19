@@ -39,7 +39,7 @@ Along with the user interface, an admin dashboard is also designed to manage ord
 ## 📸 Screens
 
 ### 🏠 Homepage
-![Homepage](images/homepage.jpg)
+![Homepage](homepage.jpg)
 
 ### 📊 Dashboard
 ![Dashboard](images/dashboard.jpg)
