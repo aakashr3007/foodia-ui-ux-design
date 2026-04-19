@@ -39,16 +39,16 @@ Along with the user interface, an admin dashboard is also designed to manage ord
 ## 📸 Screens
 
 ### 🏠 Homepage
-![Homepage](images/homepage.png)
+![Homepage](images/homepage.jpg)
 
 ### 📊 Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.jpg)
 
 ### 💰 Wallet
-![Wallet](images/wallet.png)
+![Wallet](images/wallet.jpg)
 
 ### 👤 Customer Details
-![Customer](images/customer.png)
+![Customer](images/customer.jpg)
 
 ---
 
